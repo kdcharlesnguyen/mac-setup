@@ -7,10 +7,12 @@ Run the following command
 ```
 
 ## Applications to install 
-5. Atuin
-1. Brave
-2. Docker
-3. Jetbrains Toolbox
-4. Notion
-6. Spotify
-7. Rekordbox
+1. Alfred
+2. Alt Tab
+3. Atuin
+4. Brave
+5. Docker
+6. Jetbrains Toolbox
+7. Notion
+8. Spotify
+9. Rekordbox
