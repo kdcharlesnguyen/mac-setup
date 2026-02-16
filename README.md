@@ -6,7 +6,7 @@ Run the following command
 ./install-mac.sh
 ```
 
-## Applications to install 
+## Applications to install Manually
 1. Alfred
 2. Alt Tab
 3. Atuin
