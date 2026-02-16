@@ -21,14 +21,16 @@ brew install yt-dlp
 brew install vlc
 brew install alfred
 brew install rectangle
+brew install fastfetch
+brew install btop
+brew install tldr
+brew install bat
 
 # Developer Tools
 brew install git
 brew install make
 brew install ripgrep
-brew install bat
 brew install curl
-brew install tldr
 brew install wget
 brew install helm
 brew install kind
