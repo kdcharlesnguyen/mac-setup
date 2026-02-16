@@ -16,3 +16,4 @@ Run the following command
 7. Notion
 8. Spotify
 9. Rekordbox
+10. VLC
