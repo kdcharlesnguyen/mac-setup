@@ -25,6 +25,11 @@ brew install fastfetch
 brew install btop
 brew install tldr
 brew install bat
+brew install stats
+brew install --cask clocker
+brew install --cask TheBoredTeam/boring-notch/boring-notch --no-quarantine
+brew install --cask localsend
+brew install --cask hiddenbar
 
 # Developer Tools
 brew install git
